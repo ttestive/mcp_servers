@@ -1,0 +1,11 @@
+[project]
+name = "news-ai-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=1.27.0",
+    "pip>=26.1.1",
+    "requests>=2.33.1",
+]
